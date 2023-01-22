@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ioannis Papadoulis
 ==========================================================================================================================================
 
-Junior Software Engineer
+Software Engineer
 -------------
 
 I am an IT specialist with a passion for all things technical. I am currently seeking for my first software engineering role and am excited to learn and grow in this field. I have always had a natural curiosity for technology and am constantly seeking new ways to improve my skills and knowledge. I am a quick learner and am always eager to take on new challenges.
