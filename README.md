@@ -35,15 +35,7 @@ I am an IT specialist with a passion for all things technical. I am currently se
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ioapap"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ioapap&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ioapap's GitHub stats" /></a>
+<a href="http://www.github.com/ioapap"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ioapap&show_icons=true&hide=&count_private=true&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&hide_border=true&show_icons=true" alt="ioapap's GitHub stats" /></a>
 
 
-<a href="https://github.com/ioapap" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ioapap&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ioapap/Google_Translate_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ioapap&repo=Google_Translate_Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ioapap/Nutritional_Calculator" align="right"><img align="right" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ioapap&repo=Nutritional_Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/ioapap/Google_Trends_Project" align="left"><img align="left" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ioapap&repo=Google_Trends_Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ioapap/CLI_ToDo_App" align="right"><img align="right" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ioapap&repo=CLI_ToDo_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/ioapap" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ioapap&langs_count=10&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
