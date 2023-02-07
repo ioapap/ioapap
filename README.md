@@ -8,7 +8,7 @@ I am an IT specialist with a passion for all things technical. I am currently se
 
 * 🌍  I'm based in Kraków, Poland
 * 🖥️  See my portfolio at [MyPortfolio](http://johnpap.dev)
-* 🧠  I'm learning Golang and Frontend Web Development
+* 🧠  I'm learning Full-Stack development
 * 🤝  I'm open to collaborating on compelling projects
 * ⚡  I would love to learn Ethical Hacking one day
 
