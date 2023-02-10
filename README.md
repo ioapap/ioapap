@@ -38,7 +38,4 @@ I am an IT specialist with a passion for all things technical. I am currently se
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ioapap"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ioapap&show_icons=true&hide=&count_private=true&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&hide_border=true&show_icons=true" alt="ioapap's GitHub stats" /></a>
-
-
-<a href="https://github.com/ioapap" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ioapap&langs_count=10&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ioapap" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ioapap&langs_count=10&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><a href="http://www.github.com/ioapap"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ioapap&show_icons=true&hide=&count_private=true&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&hide_border=true&show_icons=true" alt="ioapap's GitHub stats" /></a> 
