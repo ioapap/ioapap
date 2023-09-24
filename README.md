@@ -1,10 +1,10 @@
 Hi ! 🙋‍♂️ My name is Ioannis Papadoulis 
 ==========================================================================================================================================
 
-Jr Software Engineer
+Software Engineer
 -------------
 
-I am an IT specialist with a passion for all things technical. I am currently seeking for my first software engineering role and am excited to learn and grow in this field. I have always had a natural curiosity for technology and am constantly seeking new ways to improve my skills and knowledge. I am a quick learner and am always eager to take on new challenges.
+Experienced in a diverse range of technologies with a current focus on Golang (utilizing Gorilla/mux and Martini), React (enhanced with Redux among others), and TypeScript. For the past 2 years, I've immersed myself in Full-Stack development, diligently building projects, taking courses, and honing my skills.
 
 * 🌍  I'm based in Kraków, Poland
 * 🖥️  See my portfolio at [MyPortfolio](http://johnpap.dev)
