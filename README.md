@@ -1,16 +1,14 @@
 Hi ! 🙋‍♂️ My name is Ioannis Papadoulis 
 ==========================================================================================================================================
 
-Software Engineer
+Aspiring Cybersecurity Professional
 -------------
 
-Experienced in a diverse range of technologies with a current focus on Golang (utilizing Gorilla/mux and Martini), React (enhanced with Redux among others), and TypeScript. For the past 2 years, I've immersed myself in Full-Stack development, diligently building projects, taking courses, and honing my skills.
+Actively transitioning into cybersecurity with a focus on ethical hacking and penetration testing. Achieved my CompTIA Security+ certification and currently pursuing HackTheBox CPTS and OSCP certifications to deepen my expertise and contribute to creating secure digital environments.
 
 * 🌍  I'm based in Kraków, Poland
 * 🖥️  See my portfolio at [MyPortfolio](http://johnpap.dev)
-* 🧠  I'm learning Full-Stack development
-* 🤝  I'm open to collaborating on compelling projects
-* ⚡  I would love to learn Ethical Hacking one day
+* 🧠  I'm learning cybersecurity and ethical hacking
 
 ### Skills
 
