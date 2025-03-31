@@ -1,14 +1,13 @@
 Hi ! 🙋‍♂️ My name is Ioannis Papadoulis 
 ==========================================================================================================================================
 
-Aspiring Cybersecurity Professional
+Offensive Security Professional
 -------------
 
-Actively transitioning into cybersecurity with a focus on ethical hacking and penetration testing. Achieved my CompTIA Security+ certification and currently pursuing HackTheBox CPTS and OSCP certifications to deepen my expertise and contribute to creating secure digital environments.
+Offensive Application Security Analyst focused on penetration testing and secure application development. Security+ certified and currently pursuing Hack The Box CPTS and OSCP to deepen my offensive security expertise and contribute to building secure digital systems.
 
 * 🌍  I'm based in Kraków, Poland
 * 🖥️  See my portfolio at [MyPortfolio](http://johnpap.dev)
-* 🧠  I'm learning cybersecurity and ethical hacking
 
 ### Skills
 
