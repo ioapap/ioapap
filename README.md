@@ -4,7 +4,7 @@ Hi ! 🙋‍♂️ My name is Ioannis Papadoulis
 Offensive Security Professional
 -------------
 
-Offensive Application Security Analyst focused on penetration testing and secure application development. Security+ certified and currently pursuing Hack The Box CPTS and OSCP to deepen my offensive security expertise and contribute to building secure digital systems.
+Offensive Security Professional focused on penetration testing and secure application development. Security+ certified and currently pursuing Hack The Box CPTS and OSCP to deepen my offensive security expertise and contribute to building secure digital systems.
 
 * 🌍  I'm based in Kraków, Poland
 * 🖥️  See my portfolio at [MyPortfolio](http://johnpap.dev)
