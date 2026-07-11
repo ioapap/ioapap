@@ -6,7 +6,7 @@
 
 **Breaking applications so developers can build them stronger.**
 
-Offensive AppSec Engineer & Penetration Tester @ **project44**
+Offensive AppSec Engineer & Penetration Tester @ **SmartRecruiters**
 
 ---
 
