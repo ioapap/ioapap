@@ -2,7 +2,7 @@
 
 # Ioannis Papadoulis
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Offensive+AppSec+Engineer+%7C+Penetration+Tester;Breaking+into+systems+before+the+bad+guys+do" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Sr+Application+Security+Engineer+%7C+Penetration+Tester;Breaking+into+systems+before+the+bad+guys+do" alt="Typing SVG" /></a>
 
 **Breaking applications so developers can build them stronger.**
 
