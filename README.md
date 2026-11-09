@@ -37,13 +37,13 @@
 
 **OSCP** · next, after BSCP
 
-**Writing** · AppSec posts on [LinkedIn](https://linkedin.com/in/ioannis-papadoulis)
+**Writing** · AppSec posts on [LinkedIn](https://www.linkedin.com/in/ioannis-papadoulis)
 
 ---
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge)](https://linkedin.com/in/ioannis-papadoulis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge)](https://www.linkedin.com/in/ioannis-papadoulis)
 [![johnpap.dev](https://img.shields.io/badge/johnpap.dev-E63946?style=for-the-badge)](https://johnpap.dev)
 
 </div>
