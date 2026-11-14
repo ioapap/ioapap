@@ -2,7 +2,7 @@
 
 # Ioannis Papadoulis
 
-**Offensive AppSec · Web & API Penetration Testing · AI/LLM Security**
+**Offensive AppSec · Web & API Penetration Testing · AI/LLM Security · Supply Chain Security**
 
 [![Burp Suite Champion](https://img.shields.io/badge/Burp%20Suite-Champion-E63946?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=000000)](https://portswigger.net/community)
 
@@ -12,7 +12,7 @@
 
 **SmartRecruiters**, an SAP company · Senior Application Security Engineer
 
-**project44** · Built an AI security program, managed the bug bounty program, and ran web and API pentests
+**project44** · Offensive AppSec Engineer · Built an AI security program and ran web and API pentests
 
 ---
 
