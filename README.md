@@ -20,6 +20,7 @@
 
 [![CompTIA PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-000000?style=for-the-badge&labelColor=30363D)](https://cp.certmetrics.com/comptia/en/public/verify/credential/f3c628594888451a8464ca2cd6eba6d8)
 [![CompTIA SecAI+](https://img.shields.io/badge/CompTIA-SecAI%2B-000000?style=for-the-badge&labelColor=30363D)](https://cp.certmetrics.com/comptia/en/public/verify/credential/2d14139e7a6346d4a714df0dbed7a0c9)
+[![Anthropic Claude Certified Architect (Professional)](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect%20%28Professional%29-000000?style=for-the-badge&labelColor=30363D)](https://www.credly.com/badges/be0542a7-1560-42fa-950a-2666826dafea)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-000000?style=for-the-badge&labelColor=30363D)](https://cp.certmetrics.com/comptia/en/public/verify/credential/937d9814465c4ca59c66f471095188a7)
 [![CompTIA Cloud+](https://img.shields.io/badge/CompTIA-Cloud%2B-000000?style=for-the-badge&labelColor=30363D)](https://cp.certmetrics.com/comptia/en/public/verify/credential/b6af41e46a7c434e9ac0093d1af5db98)
 [![Rapid7 InsightAppSec Specialist](https://img.shields.io/badge/Rapid7-InsightAppSec%20Specialist-000000?style=for-the-badge&labelColor=30363D)](https://verify.skilljar.com/c/rm8oi6nco9s5)
